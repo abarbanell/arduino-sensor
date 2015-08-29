@@ -1,7 +1,7 @@
 // comment
 
 char inByte;
-int ledPin = 13;
+int ledPin = 13;:q
 int powerPin = 7;
 int readPin = 0; // Analog A0
 
